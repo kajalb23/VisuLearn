@@ -1,4 +1,4 @@
-# VisuLearn — Chat-to-Visualization App
+# Concept Visualizer — Chat-to-Visualization App
 
 VisuLearn is an interactive app that **explains concepts with both text and visualization** using LLMs.
 
